@@ -2,8 +2,7 @@
 
 **`Designer`**
 
-Me chamo Adriano Vargens Carvalho, tenho 16 anos e sou natural de São Paulo. Atualmente, estou cursando o Alura Start. Gosto muito de tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
-
+Me chamo Adriano Vargens Carvalho, tenho 16 anos e sou natural de São Paulo. Atualmente, estou cursando o Alura Start e gosto muito de tecnologia.
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
         <img 
