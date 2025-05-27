@@ -13,18 +13,18 @@ Me chamo Adriano Vargens Carvalho, tenho 16 anos e sou natural de São Paulo. At
 <img 
     align="left" 
     alt="HTML"
-    title="HTML" 
+    title="Photoshop" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    src="https://mohamedelghandour.github.io/windows-10/img/Photoshop_CC_icon.png" 
 />
 <img 
     align="left" 
     alt="CSS" 
-    title="CSS"
+    title="Unreal Engine"
     width="30px" 
     style="padding-right: 10px;" 
-    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg](https://cdn-icons-png.flaticon.com/512/776/776203.png)" 
+    src="https://images.seeklogo.com/logo-png/35/2/unreal-engine-logo-png_seeklogo-350198.png" 
 />
 <img 
     align="left" 
