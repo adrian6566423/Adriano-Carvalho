@@ -1,39 +1,4 @@
 
-body {
-      font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 0;
-      background: #f4f4f9;
-      color: #333;
-    }
-    header {
-      background: #0077cc;
-      color: white;
-      padding: 20px;
-      text-align: center;
-    }
-    section {
-      padding: 20px;
-      max-width: 900px;
-      margin: auto;
-    }
-    pre {
-      background: #272822;
-      color: #f8f8f2;
-      padding: 15px;
-      border-radius: 10px;
-      overflow-x: auto;
-    }
-    h2 {
-      color: #0077cc;
-    }
-    canvas {
-      display: block;
-      margin: 20px auto;
-      border: 2px solid #0077cc;
-      border-radius: 10px;
-    }
-  </style>
 </head>
 <body>
   <header>
